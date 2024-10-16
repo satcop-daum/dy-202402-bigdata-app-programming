@@ -1,0 +1,6 @@
+
+
+pip install folium
+
+conda install -c conda-forge folium
+
